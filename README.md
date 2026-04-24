@@ -1,6 +1,6 @@
-##Heatwave Modelling Dashboard
+## Heatwave Modelling Dashboard
 
-##Overview
+## Overview
 
 The Heatwave Modelling Dashboard is a web application designed to detect, visualise, and analyse heatwave events using temperature data. This application provides a user-friendly interface for uploading datasets, running analyses, and generating informative visualisations and maps related to heatwave occurrences.
 
